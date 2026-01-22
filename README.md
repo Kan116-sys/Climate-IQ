@@ -211,7 +211,7 @@ The application is designed for local use but can be deployed to:
 - Streamlit Cloud
 - Heroku or similar PaaS
 
-## 🎯 Why This Project Wins
+## 🎯 Project Features
 
 ### Unique Value Propositions
 1. **Hyper-Personalized Climate Action Plans** - Uses RAG to combine global climate data with local context
